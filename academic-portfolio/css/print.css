@@ -1,0 +1,45 @@
+body {
+   background: white;
+   font-size: 12pt;
+   }
+.access-aid, #sidebar, #callout {
+   display: none !important;
+   }      
+h1 {
+	border-bottom: 1px solid #000;
+	font-size: 20pt !important;
+}
+h2 {
+	font-size: 16pt !important;
+}
+h3 {
+	font-size: 14pt !important;
+}
+img {
+	border: 1px solid #ccc;
+	display: block;
+}
+#wrapper {
+   width: auto;
+   margin: 0 5%;
+   padding: 0;
+   border: 0;
+   float: none !important;
+   color: #000;
+   background: transparent none;
+   }
+
+
+#footer {
+   border-top: 1px solid #000;
+   float: none !important;
+   padding: 10px;
+   background: transparent none;
+   text-align: center;
+   }
+a:link, a:visited {
+   color: #000;
+   background: transparent;
+   font-weight: bold;
+   text-decoration: underline;
+   }
